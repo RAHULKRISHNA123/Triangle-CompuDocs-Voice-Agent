@@ -27,11 +27,13 @@
     background-image: url(hero-background.jpg);
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
+    object-fit: cover;
+    width: 100%;
 }
 
 .hero-content {
