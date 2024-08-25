@@ -27,8 +27,8 @@
     background-image: url(hero-background.jpg);
     background-size: cover;
     background-position: center;
-    aspect-ratio: 16 / 9;
     max-width: 800px;
+    aspect-ratio: 16 / 9;
     display: flex;
     align-items: center;
     justify-content: center;
